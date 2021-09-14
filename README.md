@@ -1,4 +1,4 @@
-### About Me
+## About Me
 ##### DMHS 2021 - He/Him - 17<br>
 An aspiring game engine developer, sometimes gets lost in npm dependencies...<br>
 

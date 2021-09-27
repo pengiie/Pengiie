@@ -1,5 +1,5 @@
 ## About Me
-##### DMHS 2021 - He/Him - 17<br>
+##### DMHS 2022 - He/Him - 17<br>
 An aspiring game engine developer, sometimes gets lost in npm dependencies...<br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengiie&count_private=true&show_icons=true&theme=onedark)-->

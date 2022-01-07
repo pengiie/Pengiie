@@ -3,7 +3,7 @@
 An aspiring game engine developer, sometimes gets lost in npm dependencies...<br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengiie&count_private=true&show_icons=true&theme=onedark)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengiie&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=css)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengiie&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=css)](https://github.com/anuraghazra/github-readme-stats) <br>
 Reach me on discord `penguinz#6766`
 <!--
 **Pengiie/Pengiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

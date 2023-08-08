@@ -1,6 +1,6 @@
 ## About Me
-##### ASU 2026 - He/Him - 18<br>
-An aspiring game engine developer, sometimes gets lost in npm dependencies...<br>
+#####  He/Him - 18<br>
+A developer that sometimes gets lost in npm dependencies...<br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengiie&count_private=true&show_icons=true&theme=onedark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengiie&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=css)](https://github.com/anuraghazra/github-readme-stats) <br>
